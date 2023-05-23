@@ -1,0 +1,101 @@
+.presentation{
+    background: linear-gradient(to right, #0D423D, #0CC7B5);
+    height: 400px;
+}
+.profil img{
+    width: 600px;
+}
+
+
+.formation{
+    background-image: url(Rectangle\ 53.png);
+    height: 450px;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+.formation h2{
+    font-size: 26px;
+}
+
+.bakeli{
+    border: 1px solid #009688;
+    border-radius: 30px;
+    height: 300px;
+}
+
+.formation h3{
+    font-size: 18px;
+}
+
+.prog{
+    height: 200px;
+    border: 1px solid #F44336;
+    border-radius: 25px;
+}
+.design{
+    height: 200px;
+    border: 1px solid #009688;
+    border-radius: 25px;
+}
+.mark{
+    height: 200px;
+    border: 1px solid yellow;
+    border-radius: 25px;
+}
+.entr{
+    height: 200px;
+    border: 1px solid #009688;
+    border-radius: 25px;
+}
+
+.section4{
+    background-color: #F44336;
+    height: 490px;
+}
+
+.bottom-img{
+    width: 100%;
+}
+
+.coach{
+    height: 250px;
+    border: 1px solid #009688;
+}
+
+.wave{
+    background-color: #F44336;
+}
+ .section6{
+    background-color: #F44336;
+} 
+
+.footer{
+    background-color: #009688;
+    height: 300px;
+    padding-top: 25px;
+}
+
+@media (max-width:867px) {
+    .presentation{
+        background-image: url(Rectangle\ 53.png);
+        height: 300px;
+        width: 100px;
+    }
+
+    .profil img{
+        width: 400px;
+    }
+    .section4{
+        height: 730px;
+    }
+
+.Rectangle{
+    width: 100px;
+}
+
+    .footer{
+        height: 400px;
+    }
+    
+}
